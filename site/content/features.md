@@ -1,7 +1,7 @@
 ---
 title: Features
-type: products
-page: /products.html
+type: features
+page: /features.html
 image: /img/products/jumbotron.jpg
 heading: What we offer
 description: >-
