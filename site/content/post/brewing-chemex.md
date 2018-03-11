@@ -8,6 +8,8 @@ image: /img/blog/questions.jpg
 
 ## Open and Transparent Policing Software
 
+Open and Transparent Policing is when all government data and information is be made open by default in machine-readable, digital formats.
+
 When considering knowledge sharing or creating a more collaborative culture, we often talk about the need for people to be open and for more transparency. These two concepts are usually used interchangeably and often without too much thought as to what they really mean. 
 
 For a long time, in my mind, I have made a clear distinction between the two. Recently though, I was interviewed about knowledge sharing and the interviewer asked me what the difference was, as she thought they meant the same thing. I gave her what I felt was a simple answer at the time, but thought I'd try to articulate a more detailed view of the differences, as I see them, here. 
