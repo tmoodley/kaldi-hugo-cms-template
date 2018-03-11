@@ -8,7 +8,7 @@ image: /img/blog/questions.jpg
 
 ## Building a More Open and Transparent Government
 
-Open and Transparent Policing is when all government data and information is be made open by default in machine-readable, digital formats.
+Open and Transparent Policing is when all government data and information is be made open by default in machine-readable, digital formats.  Open and transparent government is good government. It strengthens our trust in democracy, and ensures the integrity of our public institutions.
 
 When considering knowledge sharing or creating a more collaborative culture, we often talk about the need for people to be open and for more transparency. These two concepts are usually used interchangeably and often without too much thought as to what they really mean. 
 
