@@ -3,7 +3,7 @@ title: PoliceForce - Open and Transparent Policing
 date: 2017-01-04T15:04:10.000Z
 description: >-
   Open and Transparent Policing is a the process of providing Police Departments with the infrastructure to be Open Transparent.
-image: /img/blog/chemex.jpg
+image: /img/blog/questions.jpg
 ---
 
 ## Open and Transparent Policing Software
