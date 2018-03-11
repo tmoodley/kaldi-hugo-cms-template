@@ -1,12 +1,12 @@
 ---
-title: PoliceForce - Open and Transparent Policing
+title: PoliceForce - Building a More Open and Transparent Government
 date: 2017-01-04T15:04:10.000Z
 description: >-
-  Open and Transparent Policing is a the process of providing Police Departments with the infrastructure to be Open Transparent.
+  Building a More Open and Transparent Government.  Open and Transparent Policing is a the process of providing Police Departments with the infrastructure to be Open Transparent.
 image: /img/blog/questions.jpg
 ---
 
-## Open and Transparent Policing Software
+## Building a More Open and Transparent Government
 
 Open and Transparent Policing is when all government data and information is be made open by default in machine-readable, digital formats.
 
