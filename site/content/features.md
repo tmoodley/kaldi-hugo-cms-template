@@ -14,10 +14,10 @@ intro:
     - image: /img/home/who-what.jpg
       text: >
         Strengthen law enforcement investigations and enhance public service with better, more citizen-centric crash report management.
-    - image: /img/illustrations/investigations.gif
+    - image: /img/illustrations/boost-revenue.gif
       text: >
         Sustain and grow report revenue by conveniently collecting report fees online. Agencies continue to receive their regular fees.
-    - image: /img/illustrations/boost-revenue.gif
+    - image: /img/illustrations/investigations.gif
       text: >
         Strengthen law enforcement investigations and enhance public service with better, more citizen-centric crash report management.
   heading: What we offer
