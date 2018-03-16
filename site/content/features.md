@@ -10,7 +10,7 @@ intro:
   blurbs:
     - image: /img/home/police-officer.jpg
       text: >
-        Simplify and streamline Poiice report management for better results. Our online solution helps you boost revenue, reduce costs and create a more citizen-friendly process.
+        Simplify and streamline Police report management for better results. Our online solution helps you boost revenue, reduce costs and create a more citizen-friendly process.
     - image: /img/home/who-what.jpg
       text: >
         Strengthen law enforcement investigations and enhance public service with better, more citizen-centric crash report management.
