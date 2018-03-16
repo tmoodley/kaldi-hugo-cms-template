@@ -49,29 +49,22 @@ full_image: /img/products/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    We make it easy to get started with our software. Choose one of our
+    monthly subscription plans to start providing Open and Transparent Policing.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Perfect for small police stations with less than 5 staff.
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
+        - 5 concurrent users 
       plan: Small
       price: '50'
-    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
+    - description: 'Great for Medium sized Police Departments with more than 5 but less than 10 staff'
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
+        - 10 concurrent users 
       plan: Big
       price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+    - description: This is for large Police Departments.  
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
+        - Unlimited users
       plan: Custom
       price: '?'
 ---
