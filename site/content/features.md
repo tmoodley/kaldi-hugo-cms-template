@@ -5,10 +5,7 @@ page: /features.html
 image: /img/products/jumbotron.jpg
 heading: What we offer
 description: >-
-  PoliceForce is the ultimate software for police stations who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  PoliceForce is the ultimate software for police departments who want to manage their information more efficiently.
 intro:
   blurbs:
     - image: /img/home/police-officer.jpg
