@@ -22,10 +22,7 @@ intro:
         Strengthen law enforcement investigations and enhance public service with better, more citizen-centric crash report management.
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+    Simplify and streamline POlice Report Management for better results. Our online solution helps you boost revenue, reduce costs and create a more citizen-friendly process.
 main:
   heading: Streamline Processes
   description: >
