@@ -27,12 +27,9 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone.
 main:
-  heading: Great coffee with no compromises
+  heading: Streamline Processes
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Save time by eliminating manual handling. Minimize walk-in and mail report requests so staff can focus on more important tasks.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products/products-grid3.jpg
