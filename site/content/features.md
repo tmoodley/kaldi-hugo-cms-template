@@ -28,14 +28,14 @@ main:
   description: >
     Save time by eliminating manual handling. Minimize walk-in and mail report requests so staff can focus on more important tasks.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products/products-grid3.jpg
+    alt: Increase efficiency of Police Departments.
+    image: /img/illustrations/efficiency.jpg	
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products/products-grid2.jpg
+    alt: increase police revenue.
+    image: /img/illustrations/revenue.jpg
   image3:
-    alt: Coffee beans
-    image: /img/products/products-grid1.jpg
+    alt: open transparent policing
+    image: /img/illustrations/open-transparent-policing.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
